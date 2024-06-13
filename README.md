@@ -1,16 +1,14 @@
-## Hi there 👋
+Hola, soy Gonzalo Suárez
 
-<!--
-**gonzaleosuarez/gonzaleosuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la Tecnicatura en Programación en la UTN Paraná, donde he adquirido una sólida base en fundamentos de programación y conocimientos específicos en C#. Actualmente, estoy profundizando mis estudios en desarrollo web full stack, y hasta el momento he desarrollado habilidades en HTML, CSS y tengo una comprensión básica de JavaScript. Estoy entusiasmado por continuar aprendiendo y aplicando mis conocimientos para crear soluciones web integrales y eficientes.
 
-Here are some ideas to get you started:
+Mis proyectos:
+-https://github.com/gonzaleosuarez/gonzaleosuarez.github.io
+-https://github.com/gonzaleosuarez/TPF-1_FULLSTACK_UTNBA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias:
+Lenguajes: Java,C#, HTML, CSS; JavaScript
+Herramientas: Git, Vs Code
+
+Contactos:
+Instagram: https://www.instagram.com/gonzaleosuarez/
