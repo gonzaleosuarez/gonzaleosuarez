@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**gonzaleosuarez/gonzaleosuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏼‍💻  Sobre mi
 
-Here are some ideas to get you started:
+💻 Fui estudiante de la tecnicatura en programación de UTN y cuento con una certificación en desarrollo web full stack en la misma universidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Principalmente me enfoco en front end con JavaScript, React y otros frameworks
+
+🌱 Actualmente estoy profundizando mis conocimientos en backend con Python 🐍 y análisis de datos con Pandas 🐼.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaleosuarez&layout=compact&theme=dark)
+
+📫 Contacto: gonzaleosuarez@gmail.com
+
