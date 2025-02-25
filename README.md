@@ -1,6 +1,6 @@
-## Hola 👋
+# Hola 👋
 
-# 👨🏼‍💻  Sobre mi
+## 👨🏼‍💻  Sobre mi
 
 💻 Fui estudiante de la tecnicatura en programación de UTN y cuento con una certificación en desarrollo web full stack en la misma universidad.
 
@@ -8,6 +8,7 @@
 
 🌱 Actualmente estoy profundizando mis conocimientos en backend con Python 🐍 y análisis de datos con Pandas 🐼.
 
+## ⚙️ Mis lenguajes de programación
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaleosuarez&layout=compact&theme=dark)
 
 📫 Contacto: gonzaleosuarez@gmail.com
